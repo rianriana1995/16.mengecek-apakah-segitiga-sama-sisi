@@ -1,0 +1,1 @@
+# 16.mengecek-apakah-segitiga-sama-sisi
